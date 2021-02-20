@@ -1,4 +1,4 @@
-package behavioral.iterator.`interface`
+package behavioral.iterator.interfaces
 
 interface Iterator<T: Any> {
 

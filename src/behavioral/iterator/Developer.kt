@@ -1,7 +1,7 @@
 package behavioral.iterator
 
-import behavioral.iterator.`interface`.Collection
-import behavioral.iterator.`interface`.Iterator
+import behavioral.iterator.interfaces.Collection
+import behavioral.iterator.interfaces.Iterator
 
 class Developer(val name: String, val skills: Array<String>) : Collection<String> {
 
